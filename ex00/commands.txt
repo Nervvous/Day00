@@ -1,1 +1,19 @@
-
+    1  setxkb;qp fr
+    2  setxkbmap fr
+    3  mkdir -p covers/Constructeurs/Sony/Consoles/PS4/fifa14
+    4  mkdir -p covers/Constructeurs/Sony/Consoles/PS4/Uncharted
+    5  mkdir -p covers/Constructeurs/Sony/Consoles/PS5/FarCry6
+    6  mkdir -p covers/Constructeurs/Sony/"Consoles portables"
+    7  mkdir -p covers/Constructeurs/Nintendo/"Consoles portables"/"Game Boy"/"Super Mario Sunshine"
+    8  mkdir -p covers/Constructeurs/Nintendo/Consoles/Gamecube/"Super Mario Sunshine"
+    9  rmdir -p covers/Constructeurs/Nintendo/"Consoles portables"/"Game Boy"/"Super Mario Sunshine"
+   10* rm covers/Constructeurs/Nintendo/"Consol
+   11  mkdir -p covers/Constructeurs/Nintendo/"Consoles portables"/"Game Boy"/"pokémon blue"
+   12  mkdir -p covers/Constructeurs/Nintendo/"Consoles portables"/"Game Boy"/"pokémon red"
+   13  mkdir -p covers/Constructeurs/Microsoft/Consoles/Xbox/"Dead to Rights"
+   14  mkdir -p covers/Constructeurs/Microsoft/Consoles/Xbox/"Halo Combat Evolved"
+   15  mkdir -p covers/Constructeurs/Microsoft/Consoles/Xbox360/"Call of Duty 4"
+   16  mkdir -p covers/Constructeurs/Microsoft/Consoles/Xbox360/"Call of Duty 3"
+   17  mkdir -p covers/Constructeurs/Sega/Consoles/Dreamcast/Shenmue
+   18  mkdir -p covers/Constructeurs/Sega/Consoles/Dreamcast/"Jet Set Radio"
+   19  history > commands.txt
